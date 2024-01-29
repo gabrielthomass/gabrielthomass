@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Gabriel Thomas</h1>
-<h3 align="center">Sou estudante da área de TI no Senac/RN</h3>
+<h3 align="center">Sou estudante da área de TI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielthomass&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielthomass" /> </p>
 
