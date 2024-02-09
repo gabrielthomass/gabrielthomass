@@ -1,0 +1,11 @@
+"use strict";
+let pao = 0.12;
+let broa = 1.50;
+let qtdPaes = 5;
+let qtdBroas = 10;
+let arrecadacaoDia = (pao * qtdPaes) + (broa * qtdBroas);
+let guardar = arrecadacaoDia / 100 * 10;
+console.log('O valor que foi arrecadado');
+arrecadacaoDia;
+console.log('O valor guardado');
+guardar;
